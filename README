@@ -1,0 +1,2 @@
+This is a minimal image for SkyTemple builds using GTK 4 with libadwaita 1.5 (GNOME 46). It is not suitable for actually
+running SkyTemple or Randomizer, it is just for basic CI tasks.
